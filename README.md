@@ -34,3 +34,5 @@ ine months and above)
 - PAY_AMT4: Amount of previous payment in June, 2005 (NT dollar)
 - PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
 - PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
+
+Algorithm Used - XGBOOST(SKLEARN and AWS SAGEMAKER)
